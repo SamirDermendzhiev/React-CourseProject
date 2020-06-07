@@ -1,0 +1,12 @@
+.login-form{
+    border: 1px solid gray;
+    width: 600px;
+    padding: 20px ;
+    background-color: lightgray;
+}
+.login{
+    display: flex;
+    height: calc(100vh - 200px);
+    justify-content: center;
+    align-items: center;
+}

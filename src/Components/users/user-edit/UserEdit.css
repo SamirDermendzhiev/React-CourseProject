@@ -1,0 +1,12 @@
+.user-edit-form{
+    border: 1px solid gray;
+    width: 600px;
+    padding: 20px;
+    margin: auto;
+    background-color: lightgray;
+}
+.user-edit{
+    margin: 50px;
+    justify-content: center;
+    align-items: center;
+}

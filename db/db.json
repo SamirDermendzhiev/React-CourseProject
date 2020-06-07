@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "picture": "https://picsum.photos/800?random=1",
+      "name": "Angelita Kaufman",
+      "age": "28",
+      "email": "angelitakaufman@strozen.com",
+      "password": "12345",
+      "isAdmin": true,
+      "id": "5ed6b394e10889341f2b4a8c"
+    },
+    {
+      "picture": "https://picsum.photos/800?random=3",
+      "name": "Dunn Zamora",
+      "age": "35",
+      "email": "dunnzamora@strozen.com",
+      "password": "12345",
+      "isAdmin": false,
+      "id": "5ed6b3941ee441a6ae0f7295"
+    },
+    {
+      "picture": "https://picsum.photos/800?random=4",
+      "name": "spider4o",
+      "age": "21",
+      "email": "samir@abv.bg",
+      "password": "12345",
+      "isAdmin": true,
+      "id": "VHJUWgk"
+    },
+    {
+      "picture": "https://picsum.photos/1200?random=1",
+      "name": "Buck Wat",
+      "age": "12",
+      "email": "buckwatts@entroflex.com",
+      "password": "12345",
+      "isAdmin": false,
+      "id": "P0sQQwq"
+    }
+  ],
+  "recipes": [
+    {
+      "picture": "https://picsum.photos/800?random=5",
+      "name": "My first Recipe",
+      "instructions": "asgrdfhgjkhljo;ilukdjsfdlifugaheipgtuhw etoihu eart aiufugh 9sruh[0aeurf 9[sug0 [a faurhgoa dfhgho[adh gasga ehlsibkusgfdahs yfgaugfy aisuhfdh iasgf g a",
+      "ingrediants": "2 eggs, 100ml milk",
+      "author": "spider4o",
+      "date": "2020-05-23T09:19:02.206Z",
+      "authorId": "VHJUWgk",
+      "id": "rOU1kjn",
+      "difficulty": "Easy"
+    },
+    {
+      "picture": "https://picsum.photos/800?random=6",
+      "name": "My first Recipe",
+      "instructions": "you know how to scramble eggs",
+      "ingrediants": "2 eggs, 100ml milk",
+      "author": "Dunn Zamora",
+      "date": "2020-05-23T09:19:02.206Z",
+      "authorId": "5ed6b3941ee441a6ae0f7295",
+      "id": "rOU1kjnk",
+      "difficulty": "Easy"
+    },
+    {
+      "picture": "https://picsum.photos/800?random=1",
+      "name": "6opska salada",
+      "instructions": "reji6 i dvete i v kupata\nsol/sirene,olio,ocet a-w ti si znae6 moi ",
+      "ingrediants": "2 domata\n1 krastavica",
+      "author": "Buck Wat",
+      "date": "2020-06-07T14:02:20.954Z",
+      "userId": "P0sQQwq",
+      "difficulty": "Hard",
+      "id": "pB_bDC7"
+    },
+    {
+      "picture": "https://picsum.photos/1200?random=8",
+      "name": "sirene",
+      "instructions": "realy not real",
+      "ingrediants": "not real",
+      "author": "Buck Wat",
+      "date": "2020-06-07T14:04:15.250Z",
+      "userId": "P0sQQwq",
+      "difficulty": "Easy",
+      "id": "KTJZO4x"
+    }
+  ],
+  "rates": [
+    {
+      "recipeId": "rOU1kjnk",
+      "userId": "VHJUWgk",
+      "rate": 5,
+      "id": "bgwrg"
+    },
+    {
+      "recipeId": "rOU1kjnk",
+      "userId": "5ed6b394e10889341f2b4a8c",
+      "rate": 1,
+      "id": "wPI2SVn"
+    },
+    {
+      "recipeId": "rOU1kjn",
+      "userId": "5ed6b394e10889341f2b4a8c",
+      "rate": 4,
+      "id": "0hmiADE"
+    },
+    {
+      "recipeId": "KTJZO4x",
+      "userId": "P0sQQwq",
+      "rate": 5,
+      "id": "BQ6L0CU"
+    },
+    {
+      "recipeId": "rOU1kjnk",
+      "userId": "P0sQQwq",
+      "rate": 5,
+      "id": "qMc8Lhk"
+    },
+    {
+      "recipeId": "rOU1kjn",
+      "userId": "P0sQQwq",
+      "rate": 5,
+      "id": "N8acj15"
+    },
+    {
+      "recipeId": "pB_bDC7",
+      "userId": "P0sQQwq",
+      "rate": 5,
+      "id": "qsN8wvk"
+    },
+    {
+      "recipeId": "KTJZO4x",
+      "userId": "VHJUWgk",
+      "rate": 4,
+      "id": "FQAO9k5"
+    },
+    {
+      "recipeId": "pB_bDC7",
+      "userId": "VHJUWgk",
+      "rate": 4,
+      "id": "EM4nLwK"
+    },
+    {
+      "recipeId": "rOU1kjn",
+      "userId": "VHJUWgk",
+      "rate": 5,
+      "id": "PhBDOEi"
+    }
+  ]
+}
