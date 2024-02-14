@@ -38,7 +38,7 @@ export function Recipe(props){
             <div className="card mb-3 w-75 m-auto">
                 <img className="card-img-top" src={curentRecipe.picture} alt={curentRecipe.name}/>
                 <div className="card-body">
-                    <h4 className="card-title">{curentRecipe.name} </h4>
+                    <a href={curentRecipe.name} className="card-title">{curentRecipe.name} </a>
                     <h6 className="text-secondary">{curentRecipe.difficulty}</h6>
                     <p className="card-text"><small className="text-muted">by: {curentRecipe.author}</small></p>
                 </div>

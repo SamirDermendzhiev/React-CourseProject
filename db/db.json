@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "picture": "https://picsum.photos/800?random=1",
+      "picture": "https://picsum.photos/800?random=2",
       "name": "Angelita Kaufman",
       "age": "28",
       "email": "angelitakaufman@strozen.com",
@@ -19,16 +19,7 @@
       "id": "5ed6b3941ee441a6ae0f7295"
     },
     {
-      "picture": "https://picsum.photos/800?random=4",
-      "name": "spider4o",
-      "age": "21",
-      "email": "samir@abv.bg",
-      "password": "12345",
-      "isAdmin": true,
-      "id": "VHJUWgk"
-    },
-    {
-      "picture": "https://picsum.photos/1200?random=1",
+      "picture": "https://picsum.photos/800?random=1",
       "name": "Buck Wat",
       "age": "12",
       "email": "buckwatts@entroflex.com",
@@ -81,6 +72,17 @@
       "userId": "P0sQQwq",
       "difficulty": "Easy",
       "id": "KTJZO4x"
+    },
+    {
+      "picture": "https://picsum.photos/200?random=1",
+      "name": "LASAGNA",
+      "instructions": "adsfgdf",
+      "ingrediants": "sadfghj",
+      "difficulty": "Hard",
+      "author": "spider4o",
+      "date": "2020-06-12T09:20:24.583Z",
+      "authorId": "VHJUWgk",
+      "id": "wLEjsE7"
     }
   ],
   "rates": [

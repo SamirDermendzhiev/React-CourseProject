@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.ratio-1 {
+  aspect-ratio: 1;
+}
+
+.cover {
+  object-fit: cover;
+}
+
+.layout {
+  margin-bottom: 40px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
